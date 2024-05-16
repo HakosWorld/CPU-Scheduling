@@ -1,11 +1,5 @@
 import java.util.*;
-/*---------------Project Team Members-------------------
-     Name1: Haitham Abdullah Taher  202107520
-     Name2: Ali Abbas Ali  202107809
-     Name3: Yusuf Mahmood   202100550
-     Name4: Hussain Ali Ahmed 202106117
-     Name5: Abdullah Mohamed  202104275
- */
+
 public class SJF_with_Round_Robin {
     private static final ArrayList<Process> readyQ = new ArrayList<Process>();
     private static final ArrayList<Process> readQCopy = new ArrayList<Process>();
