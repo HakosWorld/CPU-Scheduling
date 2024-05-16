@@ -1,5 +1,5 @@
 /*
- Shortest Remaining Time First
+ Shortest Remaining Time First Sheduling 
  */
 
 public class Process {
